@@ -9,8 +9,8 @@ In my free time, out of pure enthusiasm, I develop applications and plugins, try
 * Love reading and learning about vulnerability and cybersecurity in general
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/665c4415-71a7-4881-9814-c36435db5058.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/692a2eb5-128f-44e7-9545-38547bc94f3a.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/1c907040-bcdb-488b-815d-34a36a25de0b.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@42813476-d85c-4029-93cf-6c7bb36b5c77/be1654d6-90bf-43f5-b9b8-918e2964214c.svg">
   <img alt="WakaTime - Programming Languages over All Time - color scheme dependable">
 </picture>
 
